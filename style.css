@@ -1,0 +1,17 @@
+/* #22292e normal grey
+#293036 current line
+#1d2428 others */
+body{
+    background-color: #22292e;
+    color: white;
+}
+button{
+    background-color: #293036;
+    border-color: #ff7b63;
+    border-radius: 5px;
+    padding: 15px;
+    color: white;
+}
+a{
+    text-decoration: none;
+}
